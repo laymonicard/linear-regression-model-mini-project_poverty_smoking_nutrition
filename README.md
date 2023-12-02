@@ -5,6 +5,8 @@ Smoking has been associated with poverty rate and nutritional deficiency, especi
 This context is especially relevant in Indonesia as one of the biggest tobacco consumers markets in the world.
 
 This report aims to provide high-level analysis on poverty, smoking rate, and nutritional deficiency data on Indonesian provinces. Specifically, we will take a look at the relationship among those variables using descriptive statistics.
+**
+*In this model, I have not included control variables since this exercise is performed as my personal mini project on R. If a proper study is to be conducted, I need to read literatures to back up my choice of variables.*** 
 
 The complete report is published to the link below:
 
